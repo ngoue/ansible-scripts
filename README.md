@@ -1,2 +1,3 @@
 # ansible-scripts
-Common tasks automated with Ansible
+
+A collection of Ansible playbooks to simplify my life.
